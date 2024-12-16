@@ -1,0 +1,12 @@
+{
+    "routes": [
+      {
+        "src": "/assets/(.*)",
+        "headers": {
+          "Content-Type": "video/mp4",
+          "Access-Control-Allow-Origin": "*"
+        },
+        "dest": "/assets/$1"
+      }
+    ]
+  }
