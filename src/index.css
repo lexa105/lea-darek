@@ -126,3 +126,7 @@ button:focus-visible {
 .youtube-link {
   color: white;
 }
+
+a {
+  font-size: 20px;
+}

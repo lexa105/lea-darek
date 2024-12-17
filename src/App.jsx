@@ -57,7 +57,7 @@ function App() {
       {/* Show Subtitle After Video Playback */}
       {showSubtitle && (
         <div className="subtitle">
-          <h3>🎉 Thanks for watching! Now claim your gift 🎁</h3>
+          <h3>🎉 Všechno nejlepší! Now claim your gift 🎁</h3>
         </div>
       )}
 
